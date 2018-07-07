@@ -13,4 +13,4 @@ For a while, I've had this idea of creating a community for finding and sharing 
 
 Stay tuned.
 
--- Tyler (*underlost[Le]*)
+-- Tyler / underlost
